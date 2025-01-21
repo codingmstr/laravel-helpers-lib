@@ -16,7 +16,7 @@
     },
     "autoload": {
         "psr-4": {
-            "CodingMstr\\Helpers\\": "src/"
+            "CodingMstr\\Helpers\\": "src"
         },
         "files": [
             "src/main.php"
