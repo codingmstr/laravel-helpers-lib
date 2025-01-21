@@ -1,6 +1,6 @@
 <?php
 
-namespace Src;
+namespace Codingmstr\Helpers;
 use Illuminate\Support\Facades\Storage;
 use Illuminate\Support\Facades\Schema;
 use Illuminate\Support\Facades\Auth;
